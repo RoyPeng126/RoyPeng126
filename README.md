@@ -8,10 +8,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🇹🇼 Based in Taiwan · target graduation: 2027      
+- Based in Taiwan · target graduation: 2027      
 - 📈 Side project: **Let’s Stock**（Alpha Vantage、GNews、Google Generative AI (Gemini)、Neon Postgres）  
 - 🌱 Currently learning: **Node.js backend、Vue、Docker、CI/CD、Data/SQL**  
-- 💬 Practicing English & technical writing
 
 ---
 
@@ -61,7 +60,7 @@
 - **Let’s Stock — 投資分析平台**  
   串接 Alpha Vantage（股價）、GNews（新聞）、Gemini（AI 分析），資料入 **Neon Postgres**；提供個股走勢、新聞情緒摘要、收益模擬與報表下載。
 
-> 想看程式碼？把此處加上你的 repo 連結：`[Repo]([https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME](https://github.com/RoyPeng126/Lets-Stock.git))`
+`[Repo]([https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME](https://github.com/RoyPeng126/Lets-Stock.git))`
 
 ---
 
