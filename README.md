@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Roy 👋</h1>
+<h1 align="center">Roy Peng</h1>
 <p align="center">
   NCCU MIS student in Taiwan • Full-stack learner<br/>
   Building systems & investment analysis tools
@@ -67,20 +67,15 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoyPeng126&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=RoyPeng126&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ### 🔭 Current Focus
-- [ ] 強化 Node.js 後端（架構/中介層/middleware、測試、自動化）  
-- [ ] Vue 入門到專案化  
-- [ ] Docker 與基本 CI/CD  
+- [ ] 強化 Node.js 後端 
+- [ ] 前端框架 
+- [ ] 數據及商業分析  
 - [ ] 資料處理與 SQL 最佳化
 
 ---
