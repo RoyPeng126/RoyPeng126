@@ -60,7 +60,7 @@
 - **Let’s Stock — 投資分析平台**  
   串接 Alpha Vantage（股價）、GNews（新聞）、Gemini（AI 分析），資料入 **Neon Postgres**；提供個股走勢、新聞情緒摘要、收益模擬與報表下載。
 
-[Repo](https://github.com/RoyPeng126/Lets-Stock.git)
+[Click Here](https://github.com/RoyPeng126/Lets-Stock.git)
 
 ---
 
