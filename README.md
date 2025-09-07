@@ -61,12 +61,16 @@
   串接 Alpha Vantage（股價）、GNews（新聞）、Gemini（AI 分析），資料入 **Neon Postgres**；提供個股走勢、新聞情緒摘要、收益模擬與報表下載。
 
 [Click Here](https://github.com/RoyPeng126/Lets-Stock.git)
+---
+- **roy-introduction — 個人介紹網站**  
+  使用**Vue 3**與**Tailwind CSS**建置。 網站的目的在於展示我的學習歷程、技能樹、專案作品，以及履歷資訊。 整體設計走簡潔現代風格，並支援響應式排版，方便在電腦與手機瀏覽。
 
+[Click Here](https://github.com/RoyPeng126/roy-introduction)
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&theme=white" height="165" />
 </p>
 
 ---
