@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/Code-TS-3178C6?logo=typescript&logoColor=fff)
+![Vue](https://img.shields.io/badge/Code-Vue-42b883?logo=vue.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/Code-Java-007396?logo=openjdk&logoColor=fff)
 ![SQL](https://img.shields.io/badge/Code-SQL-336791?logo=postgresql&logoColor=fff)
