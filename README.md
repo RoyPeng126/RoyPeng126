@@ -63,7 +63,7 @@
 [Click Here](https://github.com/RoyPeng126/Lets-Stock.git)
 ---
 - **roy-introduction — 個人介紹網站**  
-  使用**Vue 3**與**Tailwind CSS**建置。 網站的目的在於展示我的學習歷程、技能樹、專案作品，以及履歷資訊。 整體設計走簡潔現代風格，並支援響應式排版，方便在電腦與手機瀏覽。
+  使用 **Vue 3** 與 **Tailwind CSS** 建置。 網站的目的在於展示我的學習歷程、技能樹、專案作品，以及履歷資訊。 整體設計走簡潔現代風格，並支援響應式排版，方便在電腦與手機瀏覽。
 
 [Click Here](https://github.com/RoyPeng126/roy-introduction)
 ---
