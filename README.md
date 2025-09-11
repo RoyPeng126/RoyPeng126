@@ -70,7 +70,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&theme=white" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&theme=dark" height="165" />
 </p>
 
 ---
