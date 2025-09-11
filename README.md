@@ -29,7 +29,6 @@
 
 **Frontend / UI**  
 ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![SBAdmin2](https://img.shields.io/badge/Theme-SBAdmin2-2C3E50)
 ![Tabulator](https://img.shields.io/badge/Grid-Tabulator-1E90FF)
 ![Shoelace](https://img.shields.io/badge/Web%20Components-Shoelace-0EA5E9)
 ![Flatpickr](https://img.shields.io/badge/Date-Flatpickr-16A34A)
