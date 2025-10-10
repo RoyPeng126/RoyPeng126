@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 - Based in Taiwan · target graduation: 2027      
 - 📈 Side project: **Let’s Stock**（Alpha Vantage、GNews、Google Generative AI (Gemini)、Neon Postgres）  
-- 🌱 Currently learning: **Node.js backend、Vue、R、Flutter、Data/SQL**  
+- 🌱 Currently learning: **Node.js backend、Vue、R、Data/SQL**  
 
 ---
 
