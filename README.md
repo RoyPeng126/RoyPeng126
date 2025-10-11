@@ -8,9 +8,11 @@
 ---
 
 ### 🧑‍💻 About Me
-- Based in Taiwan · target graduation: 2027      
+- Based in Taiwan · target graduation: 2027
+- 🔭 Current projects:  
+  - **AI Companion for Seniors** – Voice, health & geofence support for elderly care        
 - 📈 Side project: **Let’s Stock**（Alpha Vantage、GNews、Google Generative AI (Gemini)、Neon Postgres）  
-- 🌱 Currently learning: **Node.js backend、Vue、R、Data/SQL**  
+- 🌱 Currently learning: **Node.js backend、Vue、R、SQL、AI API integration**
 
 ---
 
@@ -46,6 +48,8 @@
 ![Alpha Vantage](https://img.shields.io/badge/API-Alpha%20Vantage-000)
 ![GNews](https://img.shields.io/badge/API-GNews-0F9D58)
 ![Google Generative AI](https://img.shields.io/badge/AI-Gemini-4285F4?logo=google&logoColor=fff)
+![Google Cloud STT](https://img.shields.io/badge/AI-Speech--to--Text-34A853?logo=googlecloud)
+![Yating TTS](https://img.shields.io/badge/AI-TTS-FF4081)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/SCM-Git-F05032?logo=git&logoColor=fff)
