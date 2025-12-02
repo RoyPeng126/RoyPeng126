@@ -70,7 +70,7 @@
 
 [Click Here](https://github.com/RoyPeng126/roy-introduction)
 ---
-- **ai_companion — 長者照護網站** 
+- **ai_companion — 長者照護網站**
   為長者、家屬與照護者打造的**AI 情感陪伴原型**，整合語音聊天、備忘錄排程、照護邀請、興趣收藏、健康指標與安全圍欄，示範高齡友善的智慧照護體驗。
 
 [Click Here](https://github.com/RoyPeng126/ai_companion)
