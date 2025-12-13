@@ -77,9 +77,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_border=true" height="165" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_border=true&cache_seconds=1800)
 
 ---
 
