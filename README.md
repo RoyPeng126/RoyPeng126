@@ -75,6 +75,11 @@
 
 [Click Here](https://github.com/RoyPeng126/ai_companion)
 ---
+- **3D-basketball — Unity 小遊戲**<br>
+  這是一款使用 Unity 製作的投籃機小遊戲，**模擬實體投籃機的玩法**，包含拖曳投籃、計時關卡、分數倍率、多顆籃球與關卡進階機制。
+
+[Click Here](https://github.com/RoyPeng126/3D-Basketball)
+---
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&langs_count=10&card_width=500&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&hide_border=true)
