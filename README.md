@@ -10,8 +10,8 @@
 ### 🧑‍💻 About Me
 - Based in Taiwan · target graduation: 2027
 - 🔭 Current projects:  
-  - **AI Companion for Seniors** – Voice, health & geofence support for elderly care        
-- 📈 Side project: **Let’s Stock**（Alpha Vantage、GNews、Google Generative AI (Gemini)、Neon Postgres）  
+  - **LLMGoat** – Multi-CLoud Security Platforms      
+- 📈 Side project: **Let’s Stock**（Alpha Vantage、GNews、Google Generative AI (Gemini)、Neon Postgres）, **AI Companion for Seniors**
 - 🌱 Currently learning: **Node.js backend、Vue、R、SQL、AI API integration**
 
 ---
