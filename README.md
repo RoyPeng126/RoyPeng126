@@ -87,7 +87,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![Roy's Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyPeng126&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
