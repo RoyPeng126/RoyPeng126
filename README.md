@@ -87,7 +87,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyPeng126&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-omega-navy-77.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&langs_count=8)
 
 ---
 
