@@ -87,7 +87,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-omega-navy-77.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+![Top Langs](https://github-readme-stats-omega-navy-77.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&langs_count=8&theme=tokyonight&v=2)
 
 ---
 
