@@ -88,6 +88,7 @@
 
 ### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats-omega-navy-77.vercel.app/api/top-langs/?username=RoyPeng126&layout=compact&langs_count=8&theme=tokyonight&v=2)
+![Roy's GitHub stats](https://github-readme-stats-omega-navy-77.vercel.app/api?username=RoyPeng126&show_icons=true&include_all_commits=true&theme=tokyonight&hide_rank=true)
 
 ---
 
