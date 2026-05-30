@@ -81,9 +81,7 @@
 [Click Here](https://github.com/RoyPeng126/3D-Basketball)
 ---
 - **LLM Goat — 雲端資安平台**<br>
-  這是一款**多雲端 SOC 安全分析平台**，模擬企業資安團隊分析 AWS、Azure 與 GCP 雲端日誌的工作流程，包含多雲日誌上傳、OCSF 標準化轉譯、資安語意抽取、MITRE ATT&CK 對應、Neo4j 攻擊路徑建構，以及由 LLM 生成 SOC 顧問式安全報告。
-
-[Click Here](https://github.com/yunsin0408/LLMGoat)
+  這是一款**多雲端 SOC 安全分析平台**，模擬企業資安團隊分析 AWS、Azure 與 GCP 雲端日誌的工作流程，包含多雲日誌上傳，以及由 LLM 生成 SOC 顧問式安全報告。
 ---
 
 ### 📊 GitHub Stats
